@@ -1,4 +1,4 @@
 - **Host**: Build and deploy a React application on the AWS global content delivery network (CDN).
 - **Authenticate**: Add authentication to your app to enable sign-in and sign-out functionality.
-- **Database**: Integrate a real-time API, database, and a serverless function.
-- **Function**: Implement a Lambda function that is triggered when a user signs up to the App.
+- **Database**: Integrate a real-time API, database, and serverless function.
+- **Function**: Implement a Lambda function triggered when a user signs up for the App.
